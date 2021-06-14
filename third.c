@@ -452,7 +452,7 @@ void main (int argc, char *argv[]){
     if (argc == 2){
         filename = argv[1];
     } else {
-        filename = "simple2.bin";
+        filename = "file/name/path";
     }
 
     if (fd == NULL){
