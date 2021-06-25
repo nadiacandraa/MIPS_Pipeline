@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include <instructions.h>
+#include "instructions.h"
 
 int Mem[MAX_MEM];
 int regfile[MAX_REG];
